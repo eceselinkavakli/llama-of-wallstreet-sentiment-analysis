@@ -35,6 +35,14 @@ Engineered for high-throughput data processing and scalable execution, the pipel
 
 ## 📈 Boeing (BA) Sentiment Trend
 ![BA sentiment trend](BA_sentiment.png)
+## 📈 Amazon (AMZN) Sentiment Trend
+
+![AMZN sentiment trend](https://github.com/eceselinkavakli/llama-of-wallstreet-sentiment-analysis/raw/main/AMZN_sentiment.png)
+
+## 📈 Microsoft (MSFT) Sentiment Trend
+
+![MSFT sentiment trend](https://github.com/eceselinkavakli/llama-of-wallstreet-sentiment-analysis/raw/main/MSFT_sentiment.png)
+
 
 ## 👥 Contributors
 * **Ece Selin Kavakli**
