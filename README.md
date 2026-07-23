@@ -37,7 +37,8 @@ Engineered for high-throughput data processing and scalable execution, the pipel
 ![BA sentiment trend](BA_sentiment.png)
 
 ## 👥 Contributors
+* **Ece Selin Kavakli**
 * **Tin Asavasapphavat**
 * **Ahmed Mahmoud**
 * **Vinicio Zanon Santon**
-* **Ece Selin Kavakli**
+
